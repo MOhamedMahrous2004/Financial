@@ -45,5 +45,6 @@ A Financial New wibsite
         1. post: http://127.0.0.1:8000/api/transactions/ Go to the link and then fill out the information.
         2. get: http://127.0.0.1:8000/api/transactions/ Go to the link To show the operations you have performed.
         3. delete: http://127.0.0.1:8000/api/transactions/8/ Go to the link To delete the process,The number 7 indicates the id number.
+        4. put: http://127.0.0.1:8000/api/transactions/8/ Go to the link To update the process.
 
        
